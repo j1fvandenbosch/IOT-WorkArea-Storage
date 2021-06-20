@@ -1,0 +1,52 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=VU.PCB
+*Date=13:55:10
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;screwterminal-3.5mm-3_lock.007s;6.15497;-20.756;-90;Bottom;WS2812B
+2;;;10.3624;-39.6031;0;Bottom;TXT3
+3;;;10.3405;-21.1908;0;Bottom;TXT2
+4;;;10.7696;-17.1054;0;Bottom;TXT3
+5;;;34.3957;-27.1972;0;Bottom;TXT2
+6;;;14.7391;-36.9684;0;Bottom;TXT3
+7;;screwterminal-3.5mm-3_lock.007s;41.6704;-26.8083;90;Bottom;10k pot
+8;;;39.1096;-37.9377;-90;Bottom;TXT1
+9;;;10.1315;-35.853;0;Bottom;TXT3
+10;;;37.0363;-22.8156;0;Bottom;TXT3
+11;;;9.75341;-32.5194;0;Bottom;TXT3
+12;;;24.7195;-26.9316;0;Bottom;Arduino Nano
+13;;;14.8528;-31.9113;0;Bottom;TXT3
+14;;;34.3135;-16.7329;0;Bottom;TXT2
+15;;screwterminal-3.5mm-3_lock.007s;41.8335;-11.4939;90;Bottom;10k pot
+16;;;37.0366;-30.287;0;Bottom;TXT3
+17;;;36.9303;-27.132;0;Bottom;TXT2
+18;;screwterminal-3.5mm-3_lock.007s;42.7187;-42.3766;0;Bottom;MAX4466
+19;;;10.2074;-43.161;0;Bottom;TXT3
+20;;;10.5447;-24.5414;0;Bottom;TXT3
+21;;;34.4321;-19.5197;0;Bottom;TXT2
+22;;;30.1151;-11.7901;0;Bottom;TXT2
+23;;;46.8953;-37.8217;-90;Bottom;TXT1
+24;;;42.9075;-37.8375;-90;Bottom;TXT1
+25;;;37.0959;-15.2255;0;Bottom;TXT3
+26;;screwterminal-3.5mm-2_lock;6.11868;-5.89993;-90;Bottom;Power
+27;;;34.6211;-36.931;0;Bottom;TXT3
+28;;;34.5031;-12.8564;0;Bottom;TXT1
+29;10k;THT;8.11433;-48.0283;0;Bottom;10k
+30;;;10.4355;-7.91928;0;Bottom;TXT1
+31;;;34.6219;-42.0889;0;Bottom;TXT3
+32;;;37.2144;-7.57614;0;Bottom;TXT3
+33;;;10.3974;-4.12932;0;Bottom;TXT1
+34;;;37.5346;-11.277;0;Bottom;TXT2
+35;;;29.9735;-27.1218;0;Bottom;TXT2
+36;;screwterminal-3.5mm-4_lock;5.88197;-37.9041;-90;Bottom;Switch
+37;;;29.8155;-14.1801;0;Bottom;TXT2

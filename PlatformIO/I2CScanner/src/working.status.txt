@@ -1,0 +1,20 @@
+int i2cCount = 0;
+void setup() {
+ 
+   Wire.begin();
+  for (byte i = 8; i < 120; i++)
+  {
+    Wire.beginTransmission (i);
+    if (Wire.endTransmission () == 0) {
+      Serial.print ("Found address: ");
+      Serial.print (i, DEC);
+      Serial.print (" (0x");
+      Serial.print (i, HEX);
+      Serial.println (")");
+      i2cCount++;
+      delay (1);
+      }
+  }
+}
+
+  u8g.drawStr(50, 1, "Done.");
