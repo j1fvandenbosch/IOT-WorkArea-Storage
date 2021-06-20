@@ -9,5 +9,6 @@ Current platforms / boards include
 - ESP32
 - ESP32-Cam
 - Heltec
+- Raspbery Pi 3
 
 other platforms / boards will be added as required.
